@@ -8,4 +8,4 @@ This is a simple app to practice my ReactJs skills.
 - Task is listed.
 - Delete button is displayed alongside each task.
 
-![Image](./src/assets/screenshot.png)
+![Image](./src/assets/Screenshot.png)
